@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikondbatista/)](https://www.linkedin.com/in/maikondbatista/)
 
 ### About me
-I'm just another fullstack Developer
+I'm just another fullstack developer
 
 ### My Knowledge
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".Net" width="40" height="40" /></a>
